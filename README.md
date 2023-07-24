@@ -4,7 +4,7 @@
 <h3 align="center"> IT student in KAU</h3>
 
 - 👨‍💻 Interested in Software engineering and App development
-- 🌱 I’m currently learning **web develop**
+- 🌱 I’m currently learning **web development**
 
 - 💬 Ask me about **java**
 
