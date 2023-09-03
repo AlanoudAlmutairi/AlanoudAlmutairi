@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Alanoud Almutairi</h1>
 <h3 align="center"> IT student in KAU</h3>
 
-- 👨‍💻 Interested in Software engineering and App development
+- 👨‍💻 Interested in UI/UX design and web development
 - 🌱 I’m currently learning **web development**
 
 - 💬 Ask me about **java**
