@@ -4,7 +4,8 @@
 <h3 align="center"> IT student in KAU</h3>
 
 - 👨‍💻 Interested in UI/UX design and web development
-- 🌱 I’m currently learning **web development**
+- 
+- 🌱 I’m currently learning **_**
 
 - 💬 Ask me about **java**
 
