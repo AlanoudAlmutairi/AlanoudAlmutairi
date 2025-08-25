@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Alanoud Almutairi</h1>
-<h3 align="center"> IT student in KAU</h3>
+<h3 align="center"> IT graduate from KAU</h3>
 
-- 👨‍💻 Interested in UI/UX design and web development
+- 👨‍💻 Interested in software engineering , programmin and UI/UX design  
 - 
 - 🌱 I’m currently learning **_**
 
